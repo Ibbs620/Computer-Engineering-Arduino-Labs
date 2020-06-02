@@ -1,3 +1,4 @@
+
 #include <Wire.h> // Library for I2C communication
 #include <LiquidCrystal_I2C.h> // Library for LCD
 // Wiring: SDA pin is connected to A4 and SCL pin to A5.
